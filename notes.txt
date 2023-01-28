@@ -1,0 +1,12 @@
+Deploying contracts with accounts: 0x4870F3d32D0131e240085be4A236CCc425575e50
+Account balance: 200000000000000000
+wave portal address: 0xc10205c45fb1480E73DA56d4277f5906946Bd22a
+
+Things to learn
+  - Gas: https://ethereum.org/en/developers/docs/gas/?utm_source=buildspace.so&utm_medium=buildspace_project
+  - Contract ABI: https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?utm_source=buildspace.so&utm_medium=buildspace_project
+  - events in solidity: 
+
+
+The transfer of ETH internally from a smart contract is called an "internal transaction" and 
+you can view them by switching the tab on Etherscan.
